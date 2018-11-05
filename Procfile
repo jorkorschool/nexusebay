@@ -1,1 +1,1 @@
-python Nexus.py
+worker: python Nexus.py
